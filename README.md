@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Valeria MAximova
+- 👋 Hi, I’m Valeria Maximova
 - 👀 I’m interested in Flutter development
 - 🌱 I’m currently learning Dart and Flutter to become a Flutter developer
 
